@@ -1,0 +1,10 @@
+{
+  "name": "SenseiJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Didix <edxcollot@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
